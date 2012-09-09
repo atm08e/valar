@@ -1,0 +1,9 @@
+<?php
+	require("./lib/standard.php");
+	require("./lib/db.php");
+	require("./lib/lib.php");
+	session_start();
+	html_header();	
+	connectDB();
+	getMainPage();	
+?>

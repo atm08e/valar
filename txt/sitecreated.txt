@@ -1,0 +1,13 @@
+After two weeks of developing the website and three full revisions later I am proud to present you all with version 1.0 of the website. Please report bugs via email or through communications.
+<br><br>
+Features of Version 1:<br>
+Php/Mysql/FluxBB Driven Outfit Portal<br>
+Communications – Uses a fluxbb system for inter member messaging.<br>
+Media – Will be used for future large downloads and screenshots.<br>
+Stats: Total Members, Online Members, Newest members, Team Speak Status, Server Name, Date, Time, Hits All, Hits Unique, Hits Today,
+Account Preferences, Profile, Main Screen Content.<br>
+
+
+
+
+
